@@ -1,4 +1,5 @@
-# Awesome GTM Resources
+written 3018
+ Resources
 
 > A curated list of go-to-market resources for founders and GTM teams.
 >
@@ -28,6 +29,7 @@ Inspired by the [awesome list](https://github.com/sindresorhus/awesome) format. 
 - [open-seo](https://github.com/every-app/open-seo) - Open-source Semrush / Ahrefs alternative.
 - [GEOFlow](https://github.com/yaojingang/GEOFlow) - Open-source GEO content engineering and multi-site distribution.
 - [AiToEarn](https://github.com/yikart/AiToEarn) - AI-assisted multi-platform content publishing to earn.
+- [hypit](https://github.com/hypit-ai/hypit) - AI agents that clone viral videos end-to-end and ship many variants in one command.
 - [TrendRadar](https://github.com/sansan0/TrendRadar) - AI trend / public-opinion monitor with multi-platform aggregation and MCP.
 - [Horizon](https://github.com/Thysrael/Horizon) - AI-powered personal news radar with bilingual daily briefings.
 
