@@ -20,15 +20,21 @@ Inspired by the [awesome list](https://github.com/sindresorhus/awesome) format. 
 
 ## Playbooks & Guides
 
-_No entries yet — open a PR to add the first one._
+- [marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code / agents (CRO, copy, SEO, analytics, growth).
+- [seo-geo-claude-skills](https://github.com/aaron-he-zhu/seo-geo-claude-skills) - SEO/GEO Claude skills pack (canonical skills live in aaron-marketing-skills).
 
 ## Tools & Platforms
 
-_No entries yet — open a PR to add the first one._
+- [open-seo](https://github.com/every-app/open-seo) - Open-source Semrush / Ahrefs alternative.
+- [GEOFlow](https://github.com/yaojingang/GEOFlow) - Open-source GEO content engineering and multi-site distribution.
+- [AiToEarn](https://github.com/yikart/AiToEarn) - AI-assisted multi-platform content publishing to earn.
+- [TrendRadar](https://github.com/sansan0/TrendRadar) - AI trend / public-opinion monitor with multi-platform aggregation and MCP.
+- [Horizon](https://github.com/Thysrael/Horizon) - AI-powered personal news radar with bilingual daily briefings.
 
 ## Outbound & Sequencing
 
-_No entries yet — open a PR to add the first one._
+- [OpenOutreach](https://github.com/eracle/OpenOutreach) - Self-hosted AI agent for B2B lead gen and mailbox outreach.
+- [newsjack](https://github.com/elvisun/newsjack) - Open-source agent skills that turn an agent into a PR / newsjacking team.
 
 ## Enrichment & Data
 
@@ -40,7 +46,7 @@ _No entries yet — open a PR to add the first one._
 
 ## Agents & MCP
 
-_No entries yet — open a PR to add the first one._
+- [Agent-Reach](https://github.com/Panniantong/Agent-Reach) - CLI for agents to read/search Twitter, Reddit, YouTube, GitHub, and more — zero API fees.
 
 ## Case Studies
 
@@ -48,7 +54,7 @@ _No entries yet — open a PR to add the first one._
 
 ## Related Lists
 
-_No entries yet — open a PR to add the first one._
+- [awesome-grok-bot](https://github.com/RongleCat/awesome-grok-bot) - Curated bilingual list of Grok Bot resources.
 
 ## Contributing
 
