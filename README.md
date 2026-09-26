@@ -47,6 +47,7 @@ _No entries yet — open a PR to add the first one._
 ## Agents & MCP
 
 - [Agent-Reach](https://github.com/Panniantong/Agent-Reach) - CLI for agents to read/search Twitter, Reddit, YouTube, GitHub, and more — zero API fees.
+- [ThreadFox Lite](https://github.com/amflimited/threadfox-lite) - MCP server and agent skill for researching Reddit before posting: subreddit rules, community search, account standing and post status, read-only.
 
 ## Case Studies
 
