@@ -56,6 +56,7 @@ Launchpad 的工作是帮创业者把产品推向市场。GTM 和 marketing 方�
 - [open-seo](https://github.com/every-app/open-seo) - 开源版 Semrush / Ahrefs 替代方案。
 - [GEOFlow](https://github.com/yaojingang/GEOFlow) - 开源的 GEO 内容工程与多站点分发工具。
 - [AiToEarn](https://github.com/yikart/AiToEarn) - AI 辅助的多平台内容发布与变现工具。
+- [hypit](https://github.com/hypit-ai/hypit) - 用 AI agent 端到端复刻爆款视频，一条命令批量产出多个版本。
 - [TrendRadar](https://github.com/sansan0/TrendRadar) - AI 热点 / 舆情监控，支持多平台聚合和 MCP。
 - [Horizon](https://github.com/Thysrael/Horizon) - AI 个人新闻雷达，生成中英双语每日简报。
 
