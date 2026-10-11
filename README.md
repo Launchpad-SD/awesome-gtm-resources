@@ -34,57 +34,49 @@ Launchpad 的工作是帮创业者把产品推向市场。GTM 和 marketing 方�
 
 ## 目录
 
-- [打法与指南（Playbooks & Guides）](#playbooks--guides)
-- [工具与平台（Tools & Platforms）](#tools--platforms)
-- [主动触达与序列（Outbound & Sequencing）](#outbound--sequencing)
-- [数据补全（Enrichment & Data）](#enrichment--data)
-- [分析与归因（Analytics & Attribution）](#analytics--attribution)
-- [Agent 与 MCP（Agents & MCP）](#agents--mcp)
-- [案例研究（Case Studies）](#case-studies)
+- [Agent Skills 与打法（Agent Skills & Playbooks）](#agent-skills)
+- [内容与 SEO / GEO（Content, SEO & GEO）](#content-seo-geo)
+- [社媒分发与视频（Social Distribution & Video）](#social-video)
+- [主动触达与销售（Outbound & Sales）](#outbound-sales)
+- [热点与竞品监控（Trend & Competitor Monitoring）](#monitoring)
+- [Agent 基础设施与 MCP（Agent Infra & MCP）](#agents-mcp)
 - [相关清单（Related Lists）](#related-lists)
 - [参与贡献（Contributing）](#contributing)
 
-<a id="playbooks--guides"></a>
-## 打法与指南（Playbooks & Guides）
+<a id="agent-skills"></a>
+## Agent Skills 与打法（Agent Skills & Playbooks）
 
 - [marketingskills](https://github.com/coreyhaines31/marketingskills) - 面向 Claude Code / agent 的营销技能集，涵盖转化率优化、文案、SEO、数据分析和增长。
 - [seo-geo-claude-skills](https://github.com/aaron-he-zhu/seo-geo-claude-skills) - SEO/GEO 方向的 Claude skills 合集（正式版本在 aaron-marketing-skills 中维护）。
 
-<a id="tools--platforms"></a>
-## 工具与平台（Tools & Platforms）
+<a id="content-seo-geo"></a>
+## 内容与 SEO / GEO（Content, SEO & GEO）
 
 - [open-seo](https://github.com/every-app/open-seo) - 开源版 Semrush / Ahrefs 替代方案。
 - [GEOFlow](https://github.com/yaojingang/GEOFlow) - 开源的 GEO 内容工程与多站点分发工具。
+
+<a id="social-video"></a>
+## 社媒分发与视频（Social Distribution & Video）
+
 - [AiToEarn](https://github.com/yikart/AiToEarn) - AI 辅助的多平台内容发布与变现工具。
 - [hypit](https://github.com/hypit-ai/hypit) - 用 AI agent 端到端复刻爆款视频，一条命令批量产出多个版本。
-- [TrendRadar](https://github.com/sansan0/TrendRadar) - AI 热点 / 舆情监控，支持多平台聚合和 MCP。
-- [Horizon](https://github.com/Thysrael/Horizon) - AI 个人新闻雷达，生成中英双语每日简报。
 
-<a id="outbound--sequencing"></a>
-## 主动触达与序列（Outbound & Sequencing）
+<a id="outbound-sales"></a>
+## 主动触达与销售（Outbound & Sales）
 
 - [OpenOutreach](https://github.com/eracle/OpenOutreach) - 可自部署的 AI agent，用于 B2B 获客和邮件触达。
 - [newsjack](https://github.com/elvisun/newsjack) - 开源 agent skills，把 agent 变成一支公关 / 热点借势团队。
 
-<a id="enrichment--data"></a>
-## 数据补全（Enrichment & Data）
+<a id="monitoring"></a>
+## 热点与竞品监控（Trend & Competitor Monitoring）
 
-_暂无条目，欢迎提 PR 添加第一条。_
+- [TrendRadar](https://github.com/sansan0/TrendRadar) - AI 热点 / 舆情监控，支持多平台聚合和 MCP。
+- [Horizon](https://github.com/Thysrael/Horizon) - AI 个人新闻雷达，生成中英双语每日简报。
 
-<a id="analytics--attribution"></a>
-## 分析与归因（Analytics & Attribution）
-
-_暂无条目，欢迎提 PR 添加第一条。_
-
-<a id="agents--mcp"></a>
-## Agent 与 MCP（Agents & MCP）
+<a id="agents-mcp"></a>
+## Agent 基础设施与 MCP（Agent Infra & MCP）
 
 - [Agent-Reach](https://github.com/Panniantong/Agent-Reach) - 让 agent 读取和搜索 Twitter、Reddit、YouTube、GitHub 等平台的命令行工具，无需 API 费用。
-
-<a id="case-studies"></a>
-## 案例研究（Case Studies）
-
-_暂无条目，欢迎提 PR 添加第一条。_
 
 <a id="related-lists"></a>
 ## 相关清单（Related Lists）
@@ -103,7 +95,7 @@ _暂无条目，欢迎提 PR 添加第一条。_
 规则：
 
 1. 只添加你已经核实过的资源，绝不编造条目。
-2. 把条目加到对应的类别下，向 `main` 分支提 PR。
+2. 把条目加到最贴近的类别下，向 `main` 分支提 PR；现有类别都不合适时，可以在 PR 里新开一个类别。
 3. 一次提交的条目较多时，建议一个 PR 只涉及一个类别。
 4. 不想提 PR 也可以直接开一个 issue，把链接丢给 Launchpad 团队。
 
