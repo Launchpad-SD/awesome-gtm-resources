@@ -48,6 +48,7 @@ Launchpad 的工作是帮创业者把产品推向市场。GTM 和 marketing 方�
 
 - [marketingskills](https://github.com/coreyhaines31/marketingskills) - 面向 Claude Code / agent 的营销技能集，涵盖转化率优化、文案、SEO、数据分析和增长。
 - [seo-geo-claude-skills](https://github.com/aaron-he-zhu/seo-geo-claude-skills) - SEO/GEO 方向的 Claude skills 合集（正式版本在 aaron-marketing-skills 中维护）。
+- [agency-agents](https://github.com/msitarzewski/agency-agents) - 数百个预设专家角色的 agent 合集，其中 marketing、paid-media、sales 部门覆盖增长、SEO/AEO、小红书 / 抖音 / Reddit 运营、投放和销售。
 
 <a id="content-seo-geo"></a>
 ## 内容与 SEO / GEO（Content, SEO & GEO）
@@ -60,18 +61,25 @@ Launchpad 的工作是帮创业者把产品推向市场。GTM 和 marketing 方�
 
 - [AiToEarn](https://github.com/yikart/AiToEarn) - AI 辅助的多平台内容发布与变现工具。
 - [hypit](https://github.com/hypit-ai/hypit) - 用 AI agent 端到端复刻爆款视频，一条命令批量产出多个版本。
+- [Postiz](https://github.com/gitroomhq/postiz-app) - 可自部署的开源社媒排期发布工具，支持 agent 调用，一处管理多个平台的定时发布。
+- [HyperFrames](https://github.com/heygen-com/hyperframes) - HeyGen 开源的“写 HTML 出视频”框架，为 agent 设计，适合批量制作产品演示和社媒短视频。
+- [brag](https://github.com/latent-spaces/brag) - 一条命令把做好的项目变成带音乐、动效和分享文案的发布短视频（基于 HyperFrames）。
+- [social-media-skills](https://github.com/charlie947/social-media-skills) - 17 个面向 Codex / Claude 的社媒 skills，覆盖学习个人语气、LinkedIn 写作、调研、数据分析和 Reels 脚本。
+- [native-subtitle-quote-image](https://github.com/chengyi-ai/native-subtitle-quote-image) - 从视频精确取帧并保留原字幕，生成适合小红书 / 抖音的 3:4 字幕长图的 agent skill。
 
 <a id="outbound-sales"></a>
 ## 主动触达与销售（Outbound & Sales）
 
 - [OpenOutreach](https://github.com/eracle/OpenOutreach) - 可自部署的 AI agent，用于 B2B 获客和邮件触达。
 - [newsjack](https://github.com/elvisun/newsjack) - 开源 agent skills，把 agent 变成一支公关 / 热点借势团队。
+- [coldoutboundskills](https://github.com/growthenginenowoslawski/coldoutboundskills) - 30 多个冷邮件 / outbound 的 Claude Code skills，覆盖 ICP、线索获取、文案、发信基础设施和 Clay 工作流。
 
 <a id="monitoring"></a>
 ## 热点与竞品监控（Trend & Competitor Monitoring）
 
 - [TrendRadar](https://github.com/sansan0/TrendRadar) - AI 热点 / 舆情监控，支持多平台聚合和 MCP。
 - [Horizon](https://github.com/Thysrael/Horizon) - AI 个人新闻雷达，生成中英双语每日简报。
+- [last30days-skill](https://github.com/mvanhorn/last30days-skill) - 调研任意话题最近 30 天在 Reddit、X、YouTube、HN 等平台的讨论，并汇总成一份报告的 agent skill。
 
 <a id="agents-mcp"></a>
 ## Agent 基础设施与 MCP（Agent Infra & MCP）
