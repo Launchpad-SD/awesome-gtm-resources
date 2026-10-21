@@ -80,6 +80,7 @@ Launchpad 的工作是帮创业者把产品推向市场。GTM 和 marketing 方�
 
 - [OpenOutreach](https://github.com/eracle/OpenOutreach) - 可自部署的 AI agent，用于 B2B 获客和邮件触达。
 - [newsjack](https://github.com/elvisun/newsjack) - 开源 agent skills，把 agent 变成一支公关 / 热点借势团队。
+- [Chuwu-PR-OS](https://github.com/chuwu57/Chuwu-PR-OS) - 初五整理的中文公关方法体系：从传播理论、原则、框架到工作流，附 8 个 PR agent 技能（舆情、危机预案、新闻稿等）。
 - [coldoutboundskills](https://github.com/growthenginenowoslawski/coldoutboundskills) - 30 多个冷邮件 / outbound 的 Claude Code skills，覆盖 ICP、线索获取、文案、发信基础设施和 Clay 工作流。
 - [Harvey](https://github.com/ethanplusai/harvey) - 跑在 Claude Code / Codex 订阅上的自主销售 agent，找潜在客户、按每家公司的具体信号写冷邮件，发信前逐封人工批准。
 
