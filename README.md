@@ -59,6 +59,10 @@ Launchpad 的工作是帮创业者把产品推向市场。GTM 和 marketing 方�
 - [GEOFlow](https://github.com/yaojingang/GEOFlow) - 开源的 GEO 内容工程与多站点分发工具。
 - [claude-seo](https://github.com/AgriciDaniel/claude-seo) - 面向 Claude Code 的全套 SEO 审计 skill，含 26 个子 skill 和 19 个子 agent，覆盖技术 SEO、E-E-A-T、schema 和 GEO。
 - [geo-seo-claude](https://github.com/zubair-trabzada/geo-seo-claude) - GEO 优先的 SEO skill，给网站做 AI 搜索可引用度评分、AI 爬虫访问和品牌提及检查，并能输出给客户看的报告。
+- [open-seo-mcp-skills](https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills) - Ryze 开源的 SEO / GEO skills，配一个免费 SEO MCP，用你自己的 Search Console、GA4 和 Google Ads 数据做关键词研究、排名追踪、站点审计、外链和 AI 可见度分析（数据走 Ryze 托管连接器）。
+- [chatgpt-seo](https://github.com/AgriciDaniel/chatgpt-seo) - claude-seo 作者做的 ChatGPT 版 SEO 插件，把页面、草稿或 Search Console 导出丢进去，输出带出处的整改清单。
+- [saas-seo-playbook](https://github.com/JeffLi1993/saas-seo-playbook) - 面向 AI 工具站、SaaS 官网和独立开发者的中文 SEO 实战小册子，从搜索意图、Topic Map、站内基建讲到内容生产，持续更新中。
+- [AutoGEO](https://github.com/cxcscmu/AutoGEO) - CMU 团队的 GEO 框架（ICLR 2026），自动学习生成式引擎偏好的内容规则，并改写网页以提高在 AI 回答中的出现率。
 - [wewrite](https://github.com/imraywang/wewrite) - 公众号内容全流程 skill，从热点抓取、写稿、SEO、配图到排版，一句话推到微信草稿箱。
 
 <a id="social-video"></a>
@@ -74,6 +78,8 @@ Launchpad 的工作是帮创业者把产品推向市场。GTM 和 marketing 方�
 - [OpenMontage](https://github.com/calesthio/OpenMontage) - 开源的 agent 视频制作系统，把 Claude Code 变成视频工作室，内置 12 条制作流水线和数百个 skill 文件。
 - [Easel](https://github.com/ZJU-REAL/Easel) - ZJU-REAL（浙江大学）团队开源的社媒运营 agent，覆盖找热点、策划、创作、多平台发布和复盘，并把有效经验沉淀回账号画像。
 - [baoyu-skills](https://github.com/JimLiu/baoyu-skills) - 宝玉开源的内容创作 skills 合集，包括封面图、文章配图、Markdown 排版和发布到公众号等。
+- [OpenCreator](https://github.com/krillinai/OpenCreator) - 原 KrillinAI，基于 Codex 的开源创作者工作台，一处完成视频下载与翻译配音、图片 / 视频生成、口播和社媒文案，适合做 YouTube、TikTok、Instagram 内容。
+- [video-use](https://github.com/browser-use/video-use) - Browser Use 团队开源，让 Claude Code / Codex 直接剪视频：自动去口癖和空白、调色、烧字幕、加动画，丢进原始素材就能出成片。
 
 <a id="outbound-sales"></a>
 ## 主动触达与销售（Outbound & Sales）
