@@ -63,6 +63,9 @@ Launchpad 的工作是帮创业者把产品推向市场。GTM 和 marketing 方�
 - [chatgpt-seo](https://github.com/AgriciDaniel/chatgpt-seo) - claude-seo 作者做的 ChatGPT 版 SEO 插件，把页面、草稿或 Search Console 导出丢进去，输出带出处的整改清单。
 - [saas-seo-playbook](https://github.com/JeffLi1993/saas-seo-playbook) - 面向 AI 工具站、SaaS 官网和独立开发者的中文 SEO 实战小册子，从搜索意图、Topic Map、站内基建讲到内容生产，持续更新中。
 - [AutoGEO](https://github.com/cxcscmu/AutoGEO) - CMU 团队的 GEO 框架（ICLR 2026），自动学习生成式引擎偏好的内容规则，并改写网页以提高在 AI 回答中的出现率。
+- [seomachine](https://github.com/TheCraigHewitt/seomachine) - 把 SEO 长文的调研、写作、分析和优化整套流程放进 Claude Code 工作区，适合批量规划和改写博客文章。
+- [seonaut](https://github.com/StJudeWasHere/seonaut) - 开源网站 SEO 体检工具，自动检查死链、重定向、重复 Meta 标签等技术问题。
+- [serpbear](https://github.com/towfiqi/serpbear) - 可自部署的关键词排名监控，持续追踪 Google 排名变化。
 - [wewrite](https://github.com/imraywang/wewrite) - 公众号内容全流程 skill，从热点抓取、写稿、SEO、配图到排版，一句话推到微信草稿箱。
 
 <a id="social-video"></a>
