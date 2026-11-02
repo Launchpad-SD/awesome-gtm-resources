@@ -51,6 +51,7 @@ Launchpad 的工作是帮创业者把产品推向市场。GTM 和 marketing 方�
 - [agency-agents](https://github.com/msitarzewski/agency-agents) - 数百个预设专家角色的 agent 合集，其中 marketing、paid-media、sales 部门覆盖增长、SEO/AEO、小红书 / 抖音 / Reddit 运营、投放和销售。
 - [ai-marketing-skills](https://github.com/ericosiu/ai-marketing-skills) - Single Brain 团队开源的营销与销售 Claude Code skills，覆盖增长实验、outbound、SEO、内容运营和 CRO，是完整工作流而不只是 prompt。
 - [LMTY Competitive Skills](https://github.com/LMTYdotcom/skills) - 面向竞争型 GTM 的 agent skills，用来做竞品简报、定位与 messaging 检查、定价与发布评审、battlecard 和 win-loss 分析。
+- [dbskill](https://github.com/dontbesilent2025/dbskill) - dontbesilent 的中文商业诊断 skills，共 34 个，帮你判断生意卡在哪、找同行对标、做内容方案和检查视频标题封面（可免费使用，禁止转售打包）。
 
 <a id="content-seo-geo"></a>
 ## 内容与 SEO / GEO（Content, SEO & GEO）
@@ -67,6 +68,9 @@ Launchpad 的工作是帮创业者把产品推向市场。GTM 和 marketing 方�
 - [seonaut](https://github.com/StJudeWasHere/seonaut) - 开源网站 SEO 体检工具，自动检查死链、重定向、重复 Meta 标签等技术问题。
 - [serpbear](https://github.com/towfiqi/serpbear) - 可自部署的关键词排名监控，持续追踪 Google 排名变化。
 - [wewrite](https://github.com/imraywang/wewrite) - 公众号内容全流程 skill，从热点抓取、写稿、SEO、配图到排版，一句话推到微信草稿箱。
+- [NiubiGEO](https://github.com/Albert-Weasker/niubigeo) - 开源、可自部署的 AI 品牌可见度与竞品报告工具：输入域名，对比多个模型的原始回答和引用来源，还能重复测试、定时监控（模型 API 费用自理）。
+- [GEOInflow](https://github.com/yaojingang/GEOInflow) - GEOFlow 作者团队开源的自部署 GEO 流量分析，追踪哪些 AI 爬虫来过、抓了哪些页面、AI 搜索带来多少访问和转化。
+- [backlink_skills](https://github.com/flaqai/backlink_skills) - Flaq AI 团队开源的外链提交与 SEO 写作 Codex skills，附 743 个免费外链渠道清单，按授权逐站提交，不是一键群发。
 
 <a id="social-video"></a>
 ## 社媒分发与视频（Social Distribution & Video）
@@ -81,8 +85,14 @@ Launchpad 的工作是帮创业者把产品推向市场。GTM 和 marketing 方�
 - [OpenMontage](https://github.com/calesthio/OpenMontage) - 开源的 agent 视频制作系统，把 Claude Code 变成视频工作室，内置 12 条制作流水线和数百个 skill 文件。
 - [Easel](https://github.com/ZJU-REAL/Easel) - ZJU-REAL（浙江大学）团队开源的社媒运营 agent，覆盖找热点、策划、创作、多平台发布和复盘，并把有效经验沉淀回账号画像。
 - [baoyu-skills](https://github.com/JimLiu/baoyu-skills) - 宝玉开源的内容创作 skills 合集，包括封面图、文章配图、Markdown 排版和发布到公众号等。
+- [guizang-social-card-skill](https://github.com/op7418/guizang-social-card-skill) - 图文卡片 skill，把文章、截图、笔记一键做成小红书组图和公众号封面，内置杂志风和瑞士风两套视觉。
+- [self-media-content-workflow](https://github.com/yanhua1010/self-media-content-workflow) - 模块化的自媒体内容生产与经营 skills，从创作简报、账号策略、热点竞品研究、平台文案到短视频和数据复盘，关键节点人工确认。
+- [LightPost](https://github.com/brainstormity/LightPost) - 轻量的自部署社媒排期发布工具，一个面板定时发 X、Threads、Instagram、Bluesky、YouTube 等，单个 Python 进程即可运行。
+- [huashu-motion](https://github.com/alchaincyf/huashu-motion) - 产品宣传片 skill，让 Claude Code / Codex 一句话做出带配乐的发布片，并在浏览器里指着画面改。
+- [digital-human-koubo](https://github.com/andyhuo520/digital-human-koubo) - 一张照片加一句话生成数字人口播视频的 agent skill，适合直播带货广告和产品讲解（视频生成依赖 Renoise MCP 积分）。
 - [OpenCreator](https://github.com/krillinai/OpenCreator) - 原 KrillinAI，基于 Codex 的开源创作者工作台，一处完成视频下载与翻译配音、图片 / 视频生成、口播和社媒文案，适合做 YouTube、TikTok、Instagram 内容。
 - [video-use](https://github.com/browser-use/video-use) - Browser Use 团队开源，让 Claude Code / Codex 直接剪视频：自动去口癖和空白、调色、烧字幕、加动画，丢进原始素材就能出成片。
+
 
 <a id="outbound-sales"></a>
 ## 主动触达与销售（Outbound & Sales）
