@@ -38,6 +38,7 @@ Launchpad 的工作是帮创业者把产品推向市场。GTM 和 marketing 方�
 - [内容与 SEO / GEO（Content, SEO & GEO）](#content-seo-geo)
 - [社媒分发与视频（Social Distribution & Video）](#social-video)
 - [主动触达与销售（Outbound & Sales）](#outbound-sales)
+- [EarlyLore](https://earlylore.com/) - SaaS product research for founders: study real products, revenue signals, and public competitor changes to pricing, positioning, and features before you build.
 - [热点与竞品监控（Trend & Competitor Monitoring）](#monitoring)
 - [Agent 基础设施与 MCP（Agent Infra & MCP）](#agents-mcp)
 - [相关清单（Related Lists）](#related-lists)
